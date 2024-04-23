@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udhayajsk" alt="udhayajsk" /></a> </p>
 
-- 🔭 I’m currently working on **HTML**
+- 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **Frontend**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Web development**
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 💬 Ask me about **HTML,CSS,JS,ReactJS,NodeJS**
 
 - 📫 How to reach me **udhayanithi3024@gmail.com**
 
